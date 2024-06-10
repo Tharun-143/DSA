@@ -1,0 +1,46 @@
+Algorithm
+The word Algorithm means "A set of finite rules or instructions to be followed in calculations or other problem-solving operations"
+Uses of the Algorithms:
+Algorithms play a crucial role in various fields and have many applications
+1.Computer Science
+2.Mathematics 
+3.Data Science
+4.Artifical Intelligence 
+What is the need for algorithms?
+1.Algorithms are necessary for solving complex problems efficiently.
+2.They help to automate processes and make them more reliable, faster, and easier to perform.
+3.Algorithms also enable computers to perform tasks that would be difficult or impossible for humans to do manually.
+4.They are used in various fields such as mathematics, computer science, engineering, finance, and many others to optimize processes, 
+analyze data, make predictions, and provide solutions to problems.
+Properties of Algorithm:
+1.It should terminate after a finite time.
+2.It should produce at least one output.
+3.It should take zero or more input.
+4.It should be deterministic means giving the same output for the same input case.
+5.Every step in the algorithm must be effective i.e. every step should do some work.
+How to Design an Algorithm?
+To write an algorithm, the following things are needed as a pre-requisite: 
+1.The problem that is to be solved by this algorithm i.e. clear problem definition.
+2.The constraints of the problem must be considered while solving the problem.
+3.The input to be taken to solve the problem.
+4.The output is to be expected when the problem is solved.
+5.The solution to this problem is within the given constraints.
+How to analyze an Algorithm? 
+For a standard algorithm to be good, it must be efficient. Hence the efficiency of an algorithm must be checked and maintained. It can be in two stages:
+1.Priori Analysis:
+“Priori” means “before”. Hence Priori analysis means checking the algorithm before its implementation. 
+In this, the algorithm is checked when it is written in the form of theoretical steps. 
+2. Posterior Analysis:
+“Posterior” means “after”. Hence Posterior analysis means checking the algorithm after its implementation. 
+In this, the algorithm is checked by implementing it in any programming language and executing it. 
+What is Algorithm complexity and how to find it?
+An algorithm is defined as complex based on the amount of Space and Time it consumes. 
+Hence the Complexity of an algorithm refers to the measure of the time that it will need to execute and get the expected output, and the Space it will need to store all the data (input, temporary data, and output).
+The two factors of Algorithm Complexity are:
+1.Time Factor: Time is measured by counting the number of key operations such as comparisons in the sorting algorithm.
+2.Space Factor: Space is measured by counting the maximum memory space required by the algorithm to run/execute.
+How to express an Algorithm?
+1.Natural Language:- Here we express the Algorithm in the natural English language. It is too hard to understand the algorithm from it.
+2.Flowchart:- Here we express the Algorithm by making a graphical/pictorial representation of it. It is easier to understand than Natural Language.
+3.Pseudo Code:- Here we express the Algorithm in the form of annotations and informative text written in plain English which is very much similar to the real code but as it has no syntax like any of the programming languages,
+it can’t be compiled or interpreted by the computer.It is the best way to express an algorithm because it can be understood by even a layman with some school-level knowledge.
