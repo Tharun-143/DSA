@@ -7,4 +7,3 @@ print(arr)
 insert(arr,key)
 print("after inserting:")
 print(arr)
-
