@@ -1,0 +1,14 @@
+# Accessing characters by index in a string
+def access_char_by_index(s,k):
+  return s[k];
+a = "python"
+index = 0
+print(access_char_by_index(a,index));
+# Inserting Character/String into an String
+def insert(original_str,insert_str,index):
+  return original_str[:index] + insert_str+ original_str[index:]
+print(insert("pytho","n",6))
+
+
+
+
